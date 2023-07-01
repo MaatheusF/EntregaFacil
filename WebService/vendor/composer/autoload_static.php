@@ -1169,6 +1169,7 @@ class ComposerStaticInit27a6f0be004068f4e27f37221cbddd32
         'ApiPlatform\\Util\\SortTrait' => __DIR__ . '/..' . '/api-platform/core/src/Util/SortTrait.php',
         'ApiPlatform\\Validator\\Exception\\ValidationException' => __DIR__ . '/..' . '/api-platform/core/src/Validator/Exception/ValidationException.php',
         'ApiPlatform\\Validator\\ValidatorInterface' => __DIR__ . '/..' . '/api-platform/core/src/Validator/ValidatorInterface.php',
+        'App\\Controller\\AppAuthenticationController' => __DIR__ . '/../..' . '/src/Controller/AppAuthenticationController.php',
         'App\\Kernel' => __DIR__ . '/../..' . '/src/Kernel.php',
         'Collator' => __DIR__ . '/..' . '/symfony/polyfill-intl-icu/Resources/stubs/Collator.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',

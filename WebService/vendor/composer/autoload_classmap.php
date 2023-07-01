@@ -614,6 +614,7 @@ return array(
     'ApiPlatform\\Util\\SortTrait' => $vendorDir . '/api-platform/core/src/Util/SortTrait.php',
     'ApiPlatform\\Validator\\Exception\\ValidationException' => $vendorDir . '/api-platform/core/src/Validator/Exception/ValidationException.php',
     'ApiPlatform\\Validator\\ValidatorInterface' => $vendorDir . '/api-platform/core/src/Validator/ValidatorInterface.php',
+    'App\\Controller\\AppAuthenticationController' => $baseDir . '/src/Controller/AppAuthenticationController.php',
     'App\\Kernel' => $baseDir . '/src/Kernel.php',
     'Collator' => $vendorDir . '/symfony/polyfill-intl-icu/Resources/stubs/Collator.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
